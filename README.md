@@ -24,3 +24,5 @@ De digitale opdrachten zijn opdrachten die je in je eigen tijd moet maken met ee
 
 1. Condensator opdracht
 2. Magnetische spoel opdracht
+
+test
